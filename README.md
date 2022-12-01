@@ -1,4 +1,4 @@
 # Truebtok
-Alarm Android App
+Mobile Alarm Clock für Rechenfaule.
 
-# ##Auftrag
+[Hier geht's zum Projektauftrag](/Projektauftrag.md)
