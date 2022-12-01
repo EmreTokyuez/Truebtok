@@ -14,4 +14,4 @@
 | Projektbudget:  |  0, 150CHF falls App Store publishing |
 |  Team: |  Emre Tokyüz, Thomas Trüb |
 |  Arbeitszuweisung (Lead) | App-Developer: Emre Tokyüz, Thomas Trüb  |
-|  Terminvorgaben | 26.01.2023 Abgabe Dokumentation 02.02.2023 Präsentation   |
+|  Terminvorgaben | 22.02.2023 Präsentation   |
