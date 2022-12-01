@@ -1,7 +1,5 @@
 # Projektauftrag
 
-Der Projektauftrag verschafft einen Überblick über die Rahmenbedingungen, die IST- und SOLL-Zustände
-
 | Projektbezeichnung | TruebTokClock  |
 |---|---|
 | Kurzbeschreibung |  Wir möchten eine mobile Alarm-App erstellen. Das Spezielle daran ist, dass der User nicht rechnen muss, sondern die Anzahl Stunden/Minuten angeben kann, daraufhin wird der passender Alarm erstellt.|
