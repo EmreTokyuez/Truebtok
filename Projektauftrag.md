@@ -2,16 +2,16 @@
 
 | Projektbezeichnung | TruebTokClock  |
 |---|---|
-| Kurzbeschreibung |  Wir möchten eine mobile Alarm-App erstellen. Das Spezielle daran ist, dass der User nicht rechnen muss, sondern die Anzahl Stunden/Minuten angeben kann, daraufhin wird der passender Alarm erstellt.|
-|  Unternehmensbedarf: | Wissensaneignung im Gebiet Mobile App Development und Anwendung von IPERKA. Lebenserleichterung für den Alltag.  |
-|  Ziel: | Eine funktionierende App die Alarme einstellen kann.  |
-|  Grenzen & Limiten: | Nur Android & IOS |
-|  Annahmen: |  Moderne Version Android & IOS, Gewählte Technologie funktioniert und unterstützt unseren Bedarf  |
-|  Autraggeber: |  Thomas Kälin |
-| Projektbeginn und Ende:  | 01.12.2022 - 02.02.2023  |
-  Meilensteine: | Technologie-Stack definiert ->  Einrichten der Entwicklungsumgebung ->  MVP produzieren -> Präsentierbare App   |
-|  Projektergebnisse: |  Android & IOS App  , Optional im App Store, falls nicht -> Ausführbare systemspezifische Datei für Android & IOS |
-| Projektbudget:  |  0, 150CHF falls App Store publishing |
-|  Team: |  Emre Tokyüz, Thomas Trüb |
-|  Arbeitszuweisung (Lead) | App-Developer: Emre Tokyüz, Thomas Trüb  |
-|  Terminvorgaben | 22.02.2023 Präsentation   |
+| Kurzbeschreibung | Wir erstellen eine Alarm-App für Android und iOS. Unsere App unterscheidet sich dadurch von anderen Apps, dass der User nicht die Uhrzeit für den Alarm einstellen muss (wie bei einem Wecker), sondern die Dauer (Anzahl Minuten) eingeben kann, nach deren Verstreichen der Alarm ausgeführt wird (Timer). Die TruebTokClock ist eine benutzerfreundliche Kombination von Wecker und Timer. |
+|  Unternehmensbedarf | Eine benutzerfreundliche App, die nach der gewünschten Dauer alarmiert. Sie soll den Kunden den Alltag erleichtern. |
+|  Ziel | Die Entwickler sollen Wissen auf dem Gebiet Mobile App Development und in der Anwendung von IPERKA erwerben. |
+| Grenzen, Limiten | Nur App für Android und iOS. |
+|  Annahmen |  Moderne Version Android & IOS, Gewählte Technologie funktioniert und unterstützt unseren Bedarf  |
+|  Autraggeber |  Thomas Kälin |
+| Projektdauer | 1. 12. 2022 - 2. 2. 2023 |
+|  Meilensteine | <ul><li>Technologie-Stack definiert</li><li>Entwicklungsumgebung eingerichtet</li><li>Minimum viable product (MVP) produziert</li><li>App präsentiert</li></ul> |
+|  Projektergebnisse | Android und iOS App (ausführbare systemspezifische Datei). Optional in den App Stores verfügbar machen. |
+| Projektbudget  | Es fallen keine Kosten an. Wenn Veröffentlichung in den App-Stores: 125 Fr. |
+|  Team |  Emre Tokyüz, Thomas Trüb |
+|  Arbeitszuweisung (Lead) | App-Developer (Co-Lead): Emre Tokyüz, Thomas Trüb |
+|  Terminvorgaben | 22. 2. 2023: Präsentation |
