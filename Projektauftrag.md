@@ -9,7 +9,7 @@
 |  Annahmen |  Moderne Version Android & IOS, Gewählte Technologie funktioniert und unterstützt unseren Bedarf  |
 |  Autraggeber |  Thomas Kälin |
 | Projektdauer | 1. 12. 2022 - 2. 2. 2023 |
-|  Meilensteine | <ul><li>Technologie-Stack definiert</li><li>Entwicklungsumgebung eingerichtet</li><li>Minimum viable product (MVP) produziert</li><li>App präsentiert</li></ul> |
+|  Meilensteine | <ul><li> 8.12.22  -> Technologie-Stack definiert</li><li> 8.12.22 -> Entwicklungsumgebung eingerichtet </li><li>1.1.23 -> Minimum viable product (MVP) produziert</li><li>2.2.23 -> App präsentiert</li></ul> |
 |  Projektergebnisse | Android und iOS App (ausführbare systemspezifische Datei). Optional in den App Stores verfügbar machen. |
 | Projektbudget  | Es fallen keine Kosten an. Wenn Veröffentlichung in den App-Stores: 125 Fr. |
 |  Team |  Emre Tokyüz, Thomas Trüb |
