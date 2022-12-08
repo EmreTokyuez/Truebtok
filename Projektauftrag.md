@@ -15,3 +15,7 @@
 |  Team |  Emre Tokyüz, Thomas Trüb |
 |  Arbeitszuweisung (Lead) | App-Developer (Co-Lead): Emre Tokyüz, Thomas Trüb |
 |  Terminvorgaben | 22. 2. 2023: Präsentation |
+
+
+
+
