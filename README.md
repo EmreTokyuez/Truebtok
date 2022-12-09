@@ -1,4 +1,4 @@
 # Truebtok
-Mobile Alarm Clock für Rechenfaule.
+Die benutzerfreundliche Alarm Clock für Android und iOS.
 
 [Hier geht's zum Projektauftrag.](/Projektauftrag.md)
