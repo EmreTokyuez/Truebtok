@@ -2,7 +2,8 @@
 
 | Projektbezeichnung | TruebTokClock  |
 |---|---|
-| Kurzbeschreibung | Wir erstellen eine Alarm-App für Android und iOS. Unsere App unterscheidet sich dadurch von anderen Apps, dass der User nicht die Uhrzeit für den Alarm einstellen muss (wie bei einem Wecker), sondern die Dauer (Anzahl Minuten) eingeben kann, nach deren Verstreichen der Alarm ausgeführt wird (Timer). Die TruebTokClock ist eine benutzerfreundliche Kombination von Wecker und Timer. |
+|Kürzel|TTC|
+| Kurzbeschreibung | Es soll eine Alarm-App für Android und iOS erstellt werden. Die App unterscheidet sich dadurch von anderen Apps, dass der User nicht die Uhrzeit für den Alarm einstellen muss (wie bei einem Wecker), sondern die Dauer (Anzahl Minuten) eingeben kann, nach deren Verstreichen der Alarm ausgeführt wird (Timer). Die TruebTokClock ist eine benutzerfreundliche Kombination von Wecker und Timer. |
 |  Unternehmensbedarf | Die Entwickler sollen Wissen auf dem Gebiet Mobile App Development und in der Anwendung von IPERKA erwerben. |
 |  Ziel | Eine benutzerfreundliche App, die nach der gewünschten Dauer alarmiert. Sie soll den Kunden den Alltag erleichtern. |
 | Grenzen, Limiten | Nur App für Android und iOS. |
