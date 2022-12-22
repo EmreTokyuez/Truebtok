@@ -1,6 +1,5 @@
-import 'dart:async';
-
 import 'package:flutter/material.dart';
+import 'package:flutter_alarm_clock/flutter_alarm_clock.dart';
 
 void main() {
   runApp(const MyApp());
@@ -46,12 +45,17 @@ class _MyAppState extends State<MyApp> {
               Row(
                 mainAxisAlignment: MainAxisAlignment.spaceAround,
                 children: <Widget>[
-                  Container(
-                    padding: const EdgeInsets.all(8.0),
-                    margin: const EdgeInsets.only(top: 20.0),
-                    width: 60.0,
-                    height: 60.0,
-                    child: const Text("3:00"),
+                  GestureDetector(
+                    onTap: () {
+                      FlutterAlarmClock.createTimer(3 * 60);
+                    },
+                    child: Container(
+                      padding: const EdgeInsets.all(8.0),
+                      margin: const EdgeInsets.only(top: 20.0),
+                      width: 60.0,
+                      height: 60.0,
+                      child: const Text("3:00"),
+                    ),
                   ),
                   Container(
                     padding: const EdgeInsets.all(8.0),
